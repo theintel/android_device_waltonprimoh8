@@ -16,17 +16,17 @@
 # limitations under the License.
 #
 
-# System properties for YU5014, get these values through ADB or you can use 'adb shell getprop >> getprop.txt' command to get every prop value.
+# System properties for Primo_H8, get these values through ADB or you can use 'adb shell getprop >> getprop.txt' command to get every prop value.
 
 ro.product.brand=YU
-ro.product.name=YU5014
-ro.product.device=YU5014
-ro.build.product=YU5014
+ro.product.name=Primo_H8
+ro.product.device=Primo_H8
+ro.build.product=Primo_H8
 ro.treble.enabled=true
-persist.sys.usb.config=mtp,adb
-persist.service.adb.enable=1
-persist.service.debuggable=1
+persist.sys.usb.config=none
+persist.service.adb.enable=0
+persist.service.debuggable=0
 ro.secure=1
-ro.adb.secure=0
-ro.debuggable=1
+ro.adb.secure=1
+ro.debuggable=0
 ro.allow.mock.location=0
