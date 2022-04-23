@@ -1,3 +1,6 @@
+[![Building recovery](https://github.com/waltontwrp/Recovery-Builder-NoKernel/actions/workflows/recovery.yml/badge.svg)](https://github.com/waltontwrp/Recovery-Builder-NoKernel/actions/workflows/recovery.yml)
+
+
 TWRP Device Tree for YU5014
 ===========================================
 
