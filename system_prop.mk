@@ -18,7 +18,7 @@
 
 # System properties for Primo_H8, get these values through ADB or you can use 'adb shell getprop >> getprop.txt' command to get every prop value.
 
-ro.product.brand=YU
+ro.product.brand=WALTON
 ro.product.name=Primo_H8
 ro.product.device=Primo_H8
 ro.build.product=Primo_H8
