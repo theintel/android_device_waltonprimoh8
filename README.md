@@ -1,10 +1,10 @@
 [![Building recovery](https://github.com/waltontwrp/Recovery-Builder-NoKernel/actions/workflows/recovery.yml/badge.svg)](https://github.com/waltontwrp/Recovery-Builder-NoKernel/actions/workflows/recovery.yml)
 
 
-TWRP Device Tree for YU5014
+TWRP Device Tree for Walton Primo H8
 ===========================================
 
-The YU Ace (codenamed _"YU5014"_) is a low-end smartphone from YU.	
+Primo H8 is a low-end smartphone from Walton.
  
 ## Device specifications
 
@@ -25,7 +25,7 @@ Features| Fingerprint (rear-mounted), accelerometer, proximity
 
 ## Device picture
 
-![YU](https://rukminim1.flixcart.com/image/416/416/jll6xzk0/mobile/x/g/h/yu-ace-5014-original-imaf8zhv7hwrhzz8.jpeg?q=70 "YU5014")
+!()[https://www.mobiledokan.com/wp-content/uploads/2019/03/Walton-Primo-H8-Gold.jpg]
 
 
 ## Getting Started ##
