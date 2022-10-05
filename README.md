@@ -25,7 +25,7 @@ Features| Fingerprint (rear-mounted), accelerometer, proximity
 
 ## Device picture
 
-!()[https://www.mobiledokan.com/wp-content/uploads/2019/03/Walton-Primo-H8-Gold.jpg]
+![](https://www.mobiledokan.com/wp-content/uploads/2019/03/Walton-Primo-H8-Gold.jpg)
 
 
 ## Getting Started ##
@@ -41,6 +41,7 @@ To initialize your local repository using the OMNIROM trees to build TWRP, use a
     repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
 
 To initialize a shallow clone, which will save even more space, use a command like this:
+# repo init
 
     repo init --depth=1 -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git -b twrp-9.0
 
