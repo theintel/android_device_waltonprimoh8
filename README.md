@@ -1,5 +1,6 @@
 [![Building recovery](https://github.com/waltontwrp/Recovery-Builder-NoKernel/actions/workflows/recovery.yml/badge.svg)](https://github.com/waltontwrp/Recovery-Builder-NoKernel/actions/workflows/recovery.yml)
 
+The recovery builds up without issues but doesn’t work when flashed to the device. Probably the device tree is not properly configured.
 
 TWRP Device Tree for Walton Primo H8
 ===========================================
